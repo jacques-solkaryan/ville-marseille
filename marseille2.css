@@ -16,7 +16,7 @@ body {
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
 .sct1 {
-    background: url(/images-histoire/Marseille\ 2.jpg);
+    background: url('images-histoire/Marseille\ 2.jpg');
     background-size: cover;
     background-position: center;
     height: 95vh;
@@ -40,7 +40,7 @@ header {
 /* -------------------------------------------------------------------------- */
 
 .bandeau {
-    background: url(/images-histoire/motif-circulaire-sur-fond-bleu-fond-d-ecran-2560x1080_14.jpg);
+    background: url('images-histoire/motif-circulaire-sur-fond-bleu-fond-d-ecran-2560x1080_14.jpg');
     width: 232.4%;
     margin-left: -50vh;
     padding-left: 50vh;
@@ -279,7 +279,7 @@ header {
   min-height: 300px;
   height: 100%;
   width: 100%;
-  background: transparent url(/images-histoire/abbaye-saint-victor-de-marseille-16.jpg) top center no-repeat;
+  background: transparent url('images-histoire/abbaye-saint-victor-de-marseille-16.jpg') top center no-repeat;
   background-size: 100%;
   overflow: hidden;
   transition: all .72s ease-in-out;
@@ -303,7 +303,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/cathedrale-major-monument-visite-tourisme.jpg) top center no-repeat;
+	background: transparent url('images-histoire/cathedrale-major-monument-visite-tourisme.jpg') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
@@ -327,7 +327,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/Chateau.jpg) top center no-repeat;
+	background: transparent url('images-histoire/Chateau.jpg') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
@@ -351,7 +351,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/chateau-de-la-buzine.jpg) top center no-repeat;
+	background: transparent url('images-histoire/chateau-de-la-buzine.jpg') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
@@ -375,7 +375,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/Marseille_-_Fort_Saint-Jean_16.jpg) top center no-repeat;
+	background: transparent url('images-histoire/Marseille_-_Fort_Saint-Jean_16.jpg') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
@@ -399,7 +399,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/notre-dame-Achraf-Gauss-1.jpg) top center no-repeat;
+	background: transparent url('images-histoire/notre-dame-Achraf-Gauss-1.jpg') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
@@ -423,7 +423,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/cite-radieuse-6.png) top center no-repeat;
+	background: transparent url('images-histoire/cite-radieuse-6.png') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
@@ -447,7 +447,7 @@ header {
 	min-height: 300px;
 	height: 100%;
 	width: 100%;
-	background: transparent url(/images-histoire/https___hypebeast.com_wp-content_blogs.dir_11_files_2018_06_stade_velodrome-marseille.jpg) top center no-repeat;
+	background: transparent url('images-histoire/https___hypebeast.com_wp-content_blogs.dir_11_files_2018_06_stade_velodrome-marseille.jpg') top center no-repeat;
 	background-size: 100%;
 	overflow: hidden;
 	transition: all .72s ease-in-out;
