@@ -132,7 +132,7 @@ footer {
 
  }
 
- /* @media (max-width: 574px) {
+  @media (max-width: 574px) {
     #diapo1> img{
         height: 230px !important;
         width: 38% !important;
@@ -146,4 +146,4 @@ footer {
     }
 
  
- } */
+ } 
